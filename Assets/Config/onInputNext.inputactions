@@ -1,0 +1,34 @@
+{
+    "name": "InputNext",
+    "maps": [
+        {
+            "name": "InputNext",
+            "id": "db1eaa28-089f-4844-8d32-16932182901b",
+            "actions": [
+                {
+                    "name": "onInputNext",
+                    "type": "Button",
+                    "id": "d6666185-794a-44b8-8caf-deca75c48037",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "dcc90997-0836-457e-8a02-915eb953513d",
+                    "path": "<Keyboard>/d",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "onInputNext",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

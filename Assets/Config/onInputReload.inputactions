@@ -1,0 +1,34 @@
+{
+    "name": "InputReload",
+    "maps": [
+        {
+            "name": "inputReload",
+            "id": "21e7da6c-aaae-4962-94a5-e3453dd10bea",
+            "actions": [
+                {
+                    "name": "onInputReload",
+                    "type": "Button",
+                    "id": "05243268-85ee-48fc-91dd-9686273fb22f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ee23946c-6df1-496a-8e4f-f19b701a47a5",
+                    "path": "<Keyboard>/r",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "onInputReload",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

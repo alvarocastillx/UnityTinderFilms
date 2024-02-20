@@ -1,0 +1,34 @@
+{
+    "name": "onInputBack",
+    "maps": [
+        {
+            "name": "InputBack",
+            "id": "1ffdff64-7f94-460b-b538-19805dc01f77",
+            "actions": [
+                {
+                    "name": "onInputBack",
+                    "type": "Button",
+                    "id": "149fef2c-ccd8-4b61-89a5-00a822bcdacc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ad721b27-07ce-4e0a-9bb3-b89072ac2ebc",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "onInputBack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
